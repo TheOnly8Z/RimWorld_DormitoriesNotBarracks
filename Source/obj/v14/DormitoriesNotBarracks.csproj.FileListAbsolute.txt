@@ -1,0 +1,2 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DormitoriesNotBarracks\Source\obj\v14\DormitoriesNotBarracks.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\DormitoriesNotBarracks\Source\obj\v14\DormitoriesNotBarracks.csproj.CoreCompileInputs.cache

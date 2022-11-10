@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DormitoriesNotBarracks", "DormitoriesNotBarracks.csproj", "{22C5A84F-BC45-4FAB-96A6-395F295F4BE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		v12|Any CPU = v12|Any CPU
+		v13|Any CPU = v13|Any CPU
+		v14|Any CPU = v14|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C5A84F-BC45-4FAB-96A6-395F295F4BE2}.v12|Any CPU.ActiveCfg = v12|Any CPU
+		{22C5A84F-BC45-4FAB-96A6-395F295F4BE2}.v12|Any CPU.Build.0 = v12|Any CPU
+		{22C5A84F-BC45-4FAB-96A6-395F295F4BE2}.v13|Any CPU.ActiveCfg = v13|Any CPU
+		{22C5A84F-BC45-4FAB-96A6-395F295F4BE2}.v13|Any CPU.Build.0 = v13|Any CPU
+		{22C5A84F-BC45-4FAB-96A6-395F295F4BE2}.v14|Any CPU.ActiveCfg = v14|Any CPU
+		{22C5A84F-BC45-4FAB-96A6-395F295F4BE2}.v14|Any CPU.Build.0 = v14|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7139FDC8-9CF0-4495-B1B8-FF4B1D1C694D}
+	EndGlobalSection
+EndGlobal
